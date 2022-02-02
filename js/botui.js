@@ -38,7 +38,7 @@ function bot_ui_ini() {
                         text: "然后呢？ 😃",
                         value: "sure"
                     }, {
-                        text: "少废话！ 🙄",
+                        text: "少废话。 🙄",
                         value: "skip"
                     }]
                 }).then(function (a) {
@@ -77,7 +77,7 @@ function bot_ui_ini() {
                     }).then(function () {
                         botui.message.add({
                             delay: 1500,
-                            content: "但有我们不散的一零五班！"
+                            content: "但有我们不散的一零五班"
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
@@ -85,7 +85,7 @@ function bot_ui_ini() {
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
-                                    content: "我们不散！"
+                                    content: "我们不散"
                                 }).then(function () {
                                     botui.action.button({
                                         delay: 1100,
@@ -106,7 +106,7 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "我们能在一起是缘分，分离只是为了更好的发展！"
+                content: "我们能在一起是缘分，分离只是为了更好的发展"
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
