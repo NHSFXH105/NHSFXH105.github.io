@@ -32,19 +32,19 @@
   </entry>
   
   <entry>
-    <title>资源</title>
-    <link href="/2018/12/12/%E8%B5%84%E6%BA%90/"/>
-    <id>/2018/12/12/资源/</id>
+    <title>技术</title>
+    <link href="/2018/12/12/%E6%8A%80%E6%9C%AF/"/>
+    <id>/2018/12/12/技术/</id>
     <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2022-02-02T08:42:04.158Z</updated>
+    <updated>2022-02-02T08:39:16.301Z</updated>
     
     <summary type="html">
     
-      资源
+      技术
     
     </summary>
     
-      <category term="资源" scheme="/categories/%E8%B5%84%E6%BA%90/"/>
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="web" scheme="/tags/web/"/>
@@ -98,19 +98,19 @@
   </entry>
   
   <entry>
-    <title>技术</title>
-    <link href="/2018/12/12/%E6%8A%80%E6%9C%AF/"/>
-    <id>/2018/12/12/技术/</id>
+    <title>资源</title>
+    <link href="/2018/12/12/%E8%B5%84%E6%BA%90/"/>
+    <id>/2018/12/12/资源/</id>
     <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2022-02-02T08:39:16.301Z</updated>
+    <updated>2022-02-02T08:42:04.158Z</updated>
     
     <summary type="html">
     
-      技术
+      资源
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="资源" scheme="/categories/%E8%B5%84%E6%BA%90/"/>
     
     
       <category term="web" scheme="/tags/web/"/>
